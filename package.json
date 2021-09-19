@@ -1,11 +1,10 @@
 {
-  "name": "glitch-mvp-node",
-  "version": "0.0.1",
-  "description": "A simple Node app built on fastify, instantly up and running.",
+  "name": "proxy-bot",
+  "version": "1.0.1",
+  "description": "A simple discord bot.",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "star": "node deploy-commands.js server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "dotenv": "^10.0.0",
@@ -15,12 +14,10 @@
     "node": "16.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/glitch-mvp-node"
+    "url": "https://github.com/TasfiqulTapu/Proxy-Bot"
   },
   "license": "MIT",
   "keywords": [
-    "node",
-    "glitch",
-    "express"
+    ""
   ]
 }
