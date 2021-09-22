@@ -1,5 +1,7 @@
 {
-  "prefix": "$",
+  "prefix": ",",
   "relay": false,
-  "hide":true
+  "hide":true,
+  "whitelist":true,
+  "logs":"889906971334029312"
 }
